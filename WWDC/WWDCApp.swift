@@ -11,7 +11,7 @@ import SwiftUI
 struct WWDCApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            WWDC2025View()
         }
     }
 }
